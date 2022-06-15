@@ -1,0 +1,33 @@
+[
+    {
+        "id": 0,
+        "kategorija": "",
+        "datumIsteka": "11.09.2022.",
+        "cena": 450,
+        "tekst": "Prodajem automobil, dobro ocuvan, nije puno presao, baba ga vozila",
+        "oznaka": [
+            "VW",
+            "Passat",
+            5,
+            "Dizel"
+        ],
+        "email": [
+            "markos13@gmail.com",
+            "mmarko.stosic@polovniautomobili.rs"
+        ]
+    },
+    {
+        "id": 1,
+        "kategorija": "",
+        "datumIsteka": "02.06.2023.",
+        "cena": 175,
+        "tekst": "Prodajem polovnu graficku karticu, koriscena pola godine",
+        "oznaka": [
+            "Gigabyte",
+            "nVidia GeForce RTX 3080 VENTUS 3X PLUS",
+            "12 GB",
+            "GDDR6X"
+        ],
+        "email": "vidakovicmilos12@yahoo.com"
+    }
+]
