@@ -1,33 +1,49 @@
 [
     {
         "id": 0,
-        "kategorija": "",
-        "datumIsteka": "11.09.2022.",
-        "cena": 450,
-        "tekst": "Prodajem automobil, dobro ocuvan, nije puno presao, baba ga vozila",
-        "oznaka": [
+        "kategorija": "Automobili",
+        "datumIsteka": "2022-06-11",
+        "cena": {
+            "valuta": "EUR",
+            "vrednost": 14000
+        },
+        "tekst": "Dobro ocuvan auto",
+        "oznake": [
             "VW",
-            "Passat",
-            5,
+            "Pasat",
+            "7",
             "Dizel"
         ],
-        "email": [
-            "markos13@gmail.com",
-            "mmarko.stosic@polovniautomobili.rs"
+        "mejlovi": [
+            {
+                "adresa": "zivkodaka9@gmail.com",
+                "tip": "Privatni"
+            }
         ]
     },
     {
         "id": 1,
-        "kategorija": "",
-        "datumIsteka": "02.06.2023.",
-        "cena": 175,
-        "tekst": "Prodajem polovnu graficku karticu, koriscena pola godine",
-        "oznaka": [
-            "Gigabyte",
+        "kategorija": "Racunarske komponente",
+        "datumIsteka": "2022-06-26",
+        "cena": {
+            "valuta": "EUR",
+            "vrednost": 120
+        },
+        "tekst": "polovna grafička kartica",
+        "oznake": [
             "nVidia GeForce RTX 3080 VENTUS 3X PLUS",
-            "12 GB",
-            "GDDR6X"
+            "12gb",
+            "GDDR6X 320-bit OC LHR"
         ],
-        "email": "vidakovicmilos12@yahoo.com"
+        "mejlovi": [
+            {
+                "adresa": "zivkodaka9@gmail.com",
+                "tip": "Privatni"
+            },
+            {
+                "adresa": "zivkonrt122@gs.viser.edu.rs",
+                "tip": "Poslovni"
+            }
+        ]
     }
 ]
